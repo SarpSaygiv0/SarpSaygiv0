@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Sarp Ali Saygı</h1>
 <h3 align="left">About me:</h3>
-<p>I'm a passionate software engineer with a strong background in Software Engineering, having graduated with a 3.23 GPA. I'm driven by a love for learning and enjoy putting computer science theories into practice. I have worked on various projects throughout my study life. I'm always up for a challenge and thrive on solving problems through programming. I believe that the world of software development is a dynamic and ever-changing landscape, and I'm thrilled to be a part of it. Currently, I'm working at Turkcell as an Associate Software Engineer. I'm not active on GitHub because we use BitBucket as a company.</p>
+<p>I'm a passionate software engineer with a strong background in Software Engineering, having graduated with a 3.23 GPA. I'm driven by a love for learning and enjoy putting computer science theories into practice. I'm always up for a challenge and thrive on solving problems through programming. Currently, I'm working at Turkcell as an Associate Software Engineer.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
