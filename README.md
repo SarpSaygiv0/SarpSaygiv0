@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Sarp Ali Saygı</h1>
 <h3 align="left">About me:</h3>
-<p>I'm a passionate software engineer with a strong background in Software Engineering, having graduated with a 3.23 GPA. I'm driven by a love for learning and enjoy putting computer science theories into practice. I'm always up for a challenge and thrive on solving problems through programming. Currently, I'm working at Nokia as a Software Engineer.</p>
+<p>I'm a passionate software engineer with a background in Software Engineering, driven by a love for learning and for putting computer science theory into practice. I enjoy a good challenge and thrive on solving problems through code. I'm currently a Software Engineer at Nokia.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
